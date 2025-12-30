@@ -1,6 +1,5 @@
 # <p align="center">Artoria | Terms of Service</p>
-<p align="left"><a href="https://discord.gg/GaEdTabR"><img src="Screenshot 2025-12-18 212122.png" width="100px" alt="Artoria"></a>
-</p>
+<p align="center"><a href="https://discord.gg/GaEdTabR"><img src="Screenshot 2025-12-18 212122.png" width="100px" alt="Artoria"></a></p>
 <p align="right">Effective Date: December 30, 2025
 
 Welcome to Artoria. By inviting this bot to your server or interacting with its features, you (the "User") agree to these Terms of Service. Artoria is a platform designed to bridge the gap between artistic creation and fair commerce.
