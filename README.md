@@ -1,5 +1,5 @@
 # <p align="center">Artoria | Terms of Service</p>
-<p align="center"><a href="https://discord.gg/GaEdTabR"><img src="Screenshot 2025-12-18 212122.png" width="300px" alt="Artoria"></a>
+<p align="center"><a href="https://discord.gg/GaEdTabR"><img src="Screenshot 2025-12-18 212122.png" width="100px" alt="Artoria"></a>
 </p>
 <p align="right">Effective Date: December 30, 2025
 
